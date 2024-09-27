@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="datagear-connection" />
+        <module name="datagear-management" />
+        <module name="datagear-web" />
+        <module name="datagear-webapp" />
+        <module name="datagear-analysis" />
+        <module name="datagear-persistence" />
+        <module name="datagear-dataexchange" />
+        <module name="datagear-meta" />
+        <module name="datagear-util" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>
